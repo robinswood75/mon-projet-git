@@ -1,2 +1,5 @@
 Imaginez que vous parlez à un ami qui connait le développement web mais n'a jamais utilisé git.
 Comment lui présenteriez vous le principe de ces concepts importants de git ? 
+
+Plus votre explication est simple, juste et claire, mieux c'est ! Cela va de soi, mais vous ne pouvez pas reprendre mes explications du cours. 
+Il faut reformuler avec vos propres mots/schémas/etc. 

@@ -1,2 +1,2 @@
-IMAGINER QUE VOUS PARLEZ A UN AMI QUI CONNAIT LE DEVELOPPEMENT WEB MAIS N'A JAMAIS UTILISE GIT. 
-COMMENT LUI PRESENTERIEZ VOUS LE PRINCIPE DE CES CONCEPTS IMPORTANTS DE GIT ? 
+Imaginez que vous parlez à un ami qui connait le développement web mais n'a jamais utilisé git.
+Comment lui présenteriez vous le principe de ces concepts importants de git ? 
